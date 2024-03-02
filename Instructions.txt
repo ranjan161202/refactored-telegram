@@ -3,3 +3,5 @@ This is sixth updated instructions file demo
 =======
 This is fifth updated instructions file demo
 >>>>>>> 348fb16b13c08562f7c2b8f04d013a80cbaecc61
+
+Sample update on new branch
